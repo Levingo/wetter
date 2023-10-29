@@ -1,24 +1,6 @@
 
 body {
-   
     background-color: #eeeeee;
-}
-
-.p1 { background-color: #ed5564;}
-.p2 { background-color: #ffce54;}
-.p3 { background-color: #a0d568;}
-.p4 { background-color: #4fc1e8;}
-.p5 { background-color: #ac92eb;}
-
-.scope {
-	
-	border: 0px solid blue;
-	background-color: #222222;
-	min-height: 150px;
-	text-align: center;
-	font-size: 2rem;
-	width: 100%;
-	
 }
 
 
@@ -39,39 +21,3 @@ body {
         border-radius: 2px;
 }
 
-.selected {
-        background-color: #ff88cc;
-}
-
-.lbl {
-        margin-left: 5px;
-	font-weight: bold;
-	font-family: helvetica;
-	border: 0px solid blue;
-	min-height: 50px;
-	text-align: center;
-	float: left;
-	font-size: 1rem;
-}
-
-.boxlbl {
-	background-color: #779977;
-	
-}
-
-.boxnote {
-	background-color: #add1ad;
-	
-}
-
-.boxcent {
-	background-color: #eeecf1;	
-}
-
-.boxcent2 {
-	background-color: #dddbdf;	
-}
-
-.boxselected {
-    background-color: #8fb1cc;
-}
